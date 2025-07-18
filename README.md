@@ -14,9 +14,8 @@ ben bu uygulamayı yazılım vb. bilmeyip bu işlere hevesi olan kardeşlerim ku
 verilen bota erişemeyenler oluyor onlardan mahrum kalmasın diye kodlarını gizleyerek public yayınladım,
 gönül rahatlığıyla kullanabilirsiniz dediğim gibi bir sorun yaşarsanız discord adresim herkese açık 
 
-nasıl_kullanılır.md yi oku botunu kur dostum.
-
-
+---------------------------------------------------
+https://discord.gg/7pWpt4UcNn
 ---------------------------------------------------
 
 # Discord Bot Kurulum Rehberi
@@ -54,4 +53,4 @@ Hepsi bu kadardı! Şimdi aşağıdaki adımları takip edin:
 
 
 
--sh1nra ❤
+# sh1nra ❤
