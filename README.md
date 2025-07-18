@@ -18,6 +18,7 @@ gönül rahatlığıyla kullanabilirsiniz dediğim gibi bir sorun yaşarsanız d
 
 ---------------------------------------------------
 https://discord.gg/7pWpt4UcNn
+### DİSCORD: @PEYGAMBERTC
 ---------------------------------------------------
 
 # Discord Bot Kurulum Rehberi
