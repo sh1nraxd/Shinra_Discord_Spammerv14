@@ -1,6 +1,6 @@
 
-                               !!!! HERŞEYDEN ÖNCE BU KOD OBFUSCATE EDİLMİŞTİR (ŞİFRELENMİŞTİR) TROJAN DEĞİLDİR !!!!
-                            !!!! BOTU SUNUCULARA SPAM ATMAK İÇİN KULLANIPTA BAŞINIZA GELECEKLERDEN SİZ SORUMLUSUNUZ !!!!
+    !!!! HERŞEYDEN ÖNCE BU KOD OBFUSCATE EDİLMİŞTİR (ŞİFRELENMİŞTİR) TROJAN DEĞİLDİR !!!!
+    !!!! BOTU SUNUCULARA SPAM ATMAK İÇİN KULLANIPTA BAŞINIZA GELECEKLERDEN SİZ SORUMLUSUNUZ !!!!
 
 bazı asalak türeme orospu evlatları uygulama kapalı kaynak kodlu olduğu için sağda solda götüne yarrak kaçmış gibi 
 trojan yazılımı diyebilirler.Uygulamanın kapalı kaynak kodlu olmasının sebebi piyasada eşi benzerinin public 
