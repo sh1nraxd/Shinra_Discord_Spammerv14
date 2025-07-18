@@ -14,6 +14,8 @@ ben bu uygulamayı yazılım vb. bilmeyip bu işlere hevesi olan kardeşlerim ku
 verilen bota erişemeyenler oluyor onlardan mahrum kalmasın diye kodlarını gizleyerek public yayınladım,
 gönül rahatlığıyla kullanabilirsiniz dediğim gibi bir sorun yaşarsanız discord adresim herkese açık 
 
+
+
 ---------------------------------------------------
 https://discord.gg/7pWpt4UcNn
 ---------------------------------------------------
@@ -50,6 +52,8 @@ Hepsi bu kadardı! Şimdi aşağıdaki adımları takip edin:
 ---
 
 🎉 Tebrikler! Artık botunuz çalışmaya hazır.
+
+## botun komutu /spamraid
 
 
 
